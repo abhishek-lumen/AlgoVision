@@ -1,9 +1,7 @@
 ## Deployment
-To deploy this project run
+To deploy this project, click \
+https://abhishek-lumen.github.io/AlgoVision/
 
-```bash
-  https://abhishek-lumen.github.io/AlgoVision/
-```
 
 ## Available Scripts
 
